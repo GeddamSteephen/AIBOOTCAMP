@@ -1,3 +1,6 @@
 operations
 test
 numberic
+function
+list
+arrays
